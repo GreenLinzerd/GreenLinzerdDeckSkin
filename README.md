@@ -1,4 +1,4 @@
-Custom Balatro deck featuring original characters. Replaces all four suits, with unique face cards, a unique emblem for the ace of spades, and modified suit colours.
+Custom Balatro deck featuring original characters (albeit some of which are based on Pokémon). Replaces all four suits, with unique face cards, a unique emblem for the ace of spades, and modified suit colours.
 
 Prerequisites: [Steamodded](https://github.com/Steamodded/smods) and [Lovely](https://github.com/ethangreen-dev/lovely-injector/) using deck skin functionality
 
