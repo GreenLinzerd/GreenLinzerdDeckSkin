@@ -1,16 +1,16 @@
 local atlas_key = 'greenlinzerd_atlas' -- "{prefix}_atlas"
 
 local atlas_lc_img = 'deck.png' -- Filename for the image in the asset folder
--- local atlas_hc_img = '' -- Optional, comment out if not used
+local atlas_hc_img = 'deck_hc.png' -- Optional, comment out if not used
 
 local suits = {'Hearts', 'Clubs', 'Diamonds', 'Spades'} -- Which suits to replace
 local ranks_to_use = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace"} -- Which ranks to replace
 
 local suit_colors_lc = {HEX("CD2E77"), HEX("10716A"), HEX("F9705C"), HEX("3C2A73")} -- Optional, comment out if not used
--- local suit_colors_hc = {HEX("")} -- Optional, comment out if not used
+local suit_colors_hc = {HEX("E62975"), HEX("0071B3"), HEX("FD914D"), HEX("3C2167")} -- Optional, comment out if not used
 
 local atlas_icon_lc = 'ui_assets.png' -- Optional, comment out if not used
--- local atlas_icon_hc = '' -- Optional, comment out if not used
+local atlas_icon_hc = 'ui_assets_hc.png' -- Optional, comment out if not used
 
 local description = 'GreenLinzerd Deck' -- English-language description, also used as default. Can also be a table for each suit.
 
