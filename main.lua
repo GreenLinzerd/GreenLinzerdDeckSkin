@@ -4,7 +4,7 @@ local atlas_lc_img = 'deck.png' -- Filename for the image in the asset folder
 local atlas_hc_img = 'deck_hc.png' -- Optional, comment out if not used
 
 local suits = {'Hearts', 'Clubs', 'Diamonds', 'Spades'} -- Which suits to replace
-local ranks_to_use = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace"} -- Which ranks to replace
+local ranks_to_use = {'Ace', 'King', 'Queen', 'Jack', '10', '9', '8', '7', '6', '5', '4', '3', '2'} -- Which ranks to replace
 
 local suit_colors_lc = {HEX("CD2E77"), HEX("10716A"), HEX("F9705C"), HEX("3C2A73")} -- Optional, comment out if not used
 local suit_colors_hc = {HEX("E62975"), HEX("0071B3"), HEX("FD914D"), HEX("3C2167")} -- Optional, comment out if not used
